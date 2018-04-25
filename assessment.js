@@ -6,7 +6,7 @@ After writing your function uncomment the matching function reference at the bot
 
 // 1. Write a function called helloWorld that returns the string 'Hello World!'.
 
-function helloWorld(num) {
+function helloWorld() {
   return 'Hello World!';
 }
 
